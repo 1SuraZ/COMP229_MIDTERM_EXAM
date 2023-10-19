@@ -9,7 +9,7 @@ function App() {
       <header className="App-header">
         <a
           className="App-link"
-          href="https://github.com/1SuraZ/COMP229_MIDTERM"
+                  href="https://github.com/1SuraZ/COMP229_MIDTERM_EXAM"
           target="_blank"
           rel="noopener noreferrer"
         >
